@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm YuxuanWu, a Ph.D. student in the Department of Automation at Shanghai Jiao Tong University. I'm deeply passionate about computer vision and embodied intelligence.
 <!--
 **FurryGreen/FurryGreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
